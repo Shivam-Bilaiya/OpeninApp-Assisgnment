@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/links"
+        android:title="@string/links"
+        android:icon="@drawable/hyperlink"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item android:id="@+id/courses"
+        android:title="@string/courses"
+        android:icon="@drawable/openmagazinegrey"
+        app:showAsAction="ifRoom">
+    </item>
+
+    <item android:id="@+id/campaigns"
+        android:title="@string/campaigns"
+        android:icon="@drawable/campaigngrey"
+        app:showAsAction="always">
+    </item>
+    <item android:id="@+id/profile"
+        android:title="@string/profile"
+        android:icon="@drawable/usergrey"
+        app:showAsAction="always">
+    </item>
+</menu>

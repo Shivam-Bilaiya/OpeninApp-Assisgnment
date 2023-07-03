@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="shivam_bilaiya">Shivam Bilaiya</string>
+    <string name="good_morning">Good Morning</string>
+    <string name="today_s_clicks">Today\'s clicks</string>
+    <string name="top_location">Top Location</string>
+    <string name="ahmedabad">Ahmedabad</string>
+    <string name="instagram">Instagram</string>
+    <string name="view_analytics">View Analytics</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="top_links">Top Links</string>
+    <string name="recent_links">Recent Links</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="links">Links</string>
+    <string name="courses">Courses</string>
+    <string name="campaigns">Campaigns</string>
+    <string name="profile">Profile</string>
+    <string name="view_all_links">View all Links</string>
+    <string name="_31_may_01_jul">31 MAY - 01 JUL</string>
+    <string name="overview">OverView</string>
+    <string name="total_clicks">total Clicks</string>
+    <string name="top_source">Top Source</string>
+    <string name="talk_with_us">Talk with Us</string>
+    <string name="frequently_asked_questions">Frequently Asked Questions</string>
+</resources>
